@@ -1,0 +1,501 @@
+id_cliente,nome,email,data_nascimento,plano,status,data_adesao,valor_mensalidade
+1,Asafe Vieira,pintovitor@example.net,1988-02-27,Mensal,Inativo,2024-11-10,90.54
+2,Sra. Manuella Moura,bellaabreu@example.net,2006-06-27,Trimestral,Ativo,2025-10-01,152.18
+3,Luiz Henrique Pinto,ninapimenta@example.com,1994-02-13,Mensal,Pendente,2025-04-26,110.73
+4,Sra. Ana Julia Rodrigues,obarbosa@example.net,1989-01-31,Anual,Inativo,2025-09-19,136.68
+5,Ian Sales,isabelly28@example.com,1980-07-21,Trimestral,Ativo,2026-01-28,160.43
+6,Theodoro Fernandes,sarahalmeida@example.org,1961-06-14,Mensal,Pendente,2025-09-10,166.59
+7,Sofia Silva,agatharocha@example.org,1988-11-14,Trimestral,Inativo,2024-02-20,176.79
+8,Agatha Barbosa,fdias@example.org,1998-08-22,Trimestral,Ativo,2024-10-08,113.87
+9,Davi da Luz,wda-paz@example.org,1989-11-07,Mensal,Ativo,2025-08-04,100.6
+10,Laura Aragão,calebe69@example.com,1987-11-19,Trimestral,Ativo,2025-07-22,136.56
+11,Eduarda Aragão,yrios@example.com,1967-01-20,Mensal,Pendente,2025-03-04,117.31
+12,Luiz Henrique Borges,maria-sophiacarvalho@example.net,2007-11-26,Mensal,Pendente,2025-05-28,111.17
+13,Fernando Rocha,marinalima@example.com,1962-05-04,Mensal,Inativo,2024-03-26,140.39
+14,Kaique Rezende,aliciaduarte@example.org,1957-05-19,Anual,Pendente,2025-06-15,170.91
+15,Rael Borges,emanuelsousa@example.org,1963-11-25,Mensal,Ativo,2025-06-26,125.81
+16,Levi Viana,kvasconcelos@example.org,1994-01-01,Trimestral,Inativo,2024-07-19,169.96
+17,Samuel Cardoso,antonio04@example.net,1991-06-23,Trimestral,Ativo,2024-07-06,148.94
+18,Gael Gomes,martinskamilly@example.org,1957-09-06,Mensal,Ativo,2025-07-22,191.45
+19,João Pedro Sá,mcunha@example.net,1992-11-17,Trimestral,Pendente,2024-04-12,102.71
+20,Manuella Mendonça,zferreira@example.com,1985-04-02,Anual,Inativo,2024-04-25,163.13
+21,Evelyn Fonseca,catarinarezende@example.com,1966-02-05,Anual,Inativo,2025-10-23,130.21
+22,Eduardo Costela,ncirino@example.org,1998-10-23,Trimestral,Ativo,2024-03-12,171.0
+23,Lívia Pereira,martinsstephany@example.com,1983-12-08,Trimestral,Inativo,2025-12-15,189.18
+24,Davi Lucca Borges,hfarias@example.net,1980-11-03,Anual,Ativo,2024-03-09,161.8
+25,Emanuelly Monteiro,yasminleao@example.com,2003-12-10,Trimestral,Inativo,2024-12-19,169.51
+26,André Abreu,enzofogaca@example.org,1970-05-16,Trimestral,Ativo,2024-06-12,149.64
+27,João Guilherme Siqueira,garciajoao@example.org,1959-12-16,Mensal,Pendente,2025-04-24,166.19
+28,Bryan Freitas,joao-gabrielferreira@example.org,1992-06-26,Anual,Inativo,2024-11-22,91.2
+29,Alice Rodrigues,bnunes@example.net,1963-07-02,Anual,Pendente,2026-01-24,186.2
+30,Heloisa Sales,jose43@example.com,1957-03-04,Mensal,Inativo,2024-12-16,159.7
+31,Valentim Sampaio,borgesgael@example.org,1994-02-25,Trimestral,Pendente,2025-04-21,164.77
+32,Ryan Campos,tlopes@example.com,1990-09-15,Trimestral,Pendente,2024-05-13,193.48
+33,Daniela Fernandes,teixeiraclara@example.org,1963-10-08,Anual,Inativo,2025-11-29,107.72
+34,Thiago Camargo,maria-liz51@example.net,1965-08-05,Mensal,Ativo,2026-01-12,172.41
+35,Heitor da Cruz,kpires@example.net,1959-10-10,Trimestral,Ativo,2025-02-14,153.03
+36,Emilly Andrade,abreustella@example.com,1967-06-30,Mensal,Pendente,2025-02-20,182.04
+37,Helena Moraes,montenegroluiz-otavio@example.net,1970-07-09,Trimestral,Pendente,2025-11-21,156.73
+38,Emilly Nunes,mariada-mata@example.com,1996-04-06,Anual,Ativo,2024-10-30,195.51
+39,Dr. Otto Sousa,davi-lucas70@example.org,1966-01-31,Anual,Pendente,2025-11-05,176.41
+40,Maria Cunha,uabreu@example.org,1963-06-29,Mensal,Pendente,2024-09-09,126.93
+41,Srta. Ester Melo,davi-lucas12@example.org,1982-06-01,Anual,Inativo,2025-10-09,183.07
+42,João Vitor da Costa,joao-pedroteixeira@example.net,1994-06-12,Mensal,Pendente,2024-11-27,137.14
+43,Júlia da Costa,zcirino@example.org,2006-03-09,Mensal,Pendente,2024-04-17,107.93
+44,Maria Liz Nunes,aragaorhavi@example.net,1990-12-25,Anual,Pendente,2024-02-27,111.59
+45,Marina Siqueira,tfogaca@example.net,1983-06-11,Mensal,Inativo,2024-04-03,157.4
+46,Sr. Renan Duarte,freitasfernanda@example.net,1961-12-13,Trimestral,Ativo,2026-01-15,128.34
+47,Mathias Aparecida,omendonca@example.com,1969-02-21,Mensal,Ativo,2024-10-01,174.59
+48,Sra. Ana Clara Santos,montenegrodavi@example.net,1998-06-17,Trimestral,Inativo,2025-06-14,165.83
+49,Arthur Gabriel Melo,abreuapollo@example.net,1956-02-17,Anual,Ativo,2025-08-18,91.7
+50,Srta. Maria Sophia Cavalcanti,natalia07@example.com,1977-03-08,Trimestral,Inativo,2024-02-20,138.83
+51,Samuel Dias,lorenapastor@example.com,2000-04-27,Mensal,Pendente,2024-12-08,169.84
+52,Maya Oliveira,lgoncalves@example.net,1990-06-21,Mensal,Pendente,2024-04-24,145.87
+53,Sara Gomes,emanuellada-rosa@example.com,1988-12-06,Trimestral,Ativo,2024-08-28,93.0
+54,Alana Casa Grande,heloisapeixoto@example.org,1984-05-28,Trimestral,Pendente,2024-09-17,198.79
+55,Benicio Monteiro,ottoalves@example.com,1986-04-02,Mensal,Inativo,2024-04-27,193.94
+56,Sr. Apollo Cavalcante,luiz-miguel05@example.org,2006-12-21,Anual,Inativo,2025-07-31,145.45
+57,Bernardo Novaes,helena62@example.com,1955-04-18,Mensal,Pendente,2025-03-12,126.83
+58,Carolina Casa Grande,wmoreira@example.com,1955-12-22,Anual,Pendente,2024-12-22,107.45
+59,João Pedro Cunha,claramarques@example.org,1959-03-29,Mensal,Ativo,2025-10-22,155.79
+60,Srta. Luara Nogueira,asafesales@example.net,2002-09-19,Anual,Inativo,2025-07-25,165.91
+61,Mathias Andrade,benjaminnovais@example.org,2002-10-09,Mensal,Pendente,2024-06-22,144.86
+62,Bella Freitas,manuela87@example.net,1965-06-14,Mensal,Ativo,2025-11-23,138.72
+63,Guilherme da Mota,moreiraandre@example.net,1973-07-07,Trimestral,Inativo,2024-11-21,128.84
+64,Cecília Lopes,lauraalmeida@example.net,2000-02-12,Anual,Pendente,2025-12-24,153.22
+65,Gustavo Farias,souzaana-luiza@example.net,1971-05-02,Mensal,Ativo,2024-06-02,198.31
+66,Lívia das Neves,thalesteixeira@example.net,1964-11-03,Mensal,Pendente,2025-07-31,115.47
+67,Dra. Antonella Lopes,casa-grandebruna@example.com,1972-05-09,Mensal,Ativo,2025-09-10,109.87
+68,Dr. Ravy Souza,raelcaldeira@example.org,1957-07-17,Anual,Ativo,2024-03-22,178.66
+69,Larissa Peixoto,lopesdiogo@example.net,1961-07-26,Anual,Ativo,2025-09-24,155.27
+70,Ester da Rocha,sda-rosa@example.org,2005-06-01,Trimestral,Pendente,2024-12-12,125.37
+71,Caio Nunes,xvasconcelos@example.org,1967-04-23,Trimestral,Inativo,2025-06-14,171.78
+72,Agatha Moreira,samaria-julia@example.org,2005-02-15,Mensal,Pendente,2024-07-29,98.8
+73,Benício Carvalho,zmarques@example.com,1984-01-04,Anual,Ativo,2024-07-05,144.81
+74,Arthur Garcia,manuelada-costa@example.net,1965-05-10,Mensal,Ativo,2025-08-23,176.56
+75,Sr. Vitor Gabriel Brito,nascimentoolivia@example.com,1978-02-28,Trimestral,Inativo,2024-02-23,99.08
+76,Antonella Carvalho,vjesus@example.net,2005-06-08,Trimestral,Inativo,2025-11-27,101.35
+77,Benicio Souza,bernardodas-neves@example.net,1992-10-05,Anual,Inativo,2024-06-05,143.1
+78,Daniela Sampaio,thiago89@example.org,1974-07-08,Mensal,Pendente,2025-06-17,193.79
+79,Antônio Macedo,valentimaparecida@example.com,1991-04-06,Anual,Ativo,2025-07-10,100.97
+80,Sarah Costa,pedro01@example.org,1974-02-05,Mensal,Pendente,2026-01-17,118.49
+81,Gustavo Henrique Duarte,pferreira@example.org,1975-10-02,Mensal,Ativo,2024-03-02,129.53
+82,João Lucas Montenegro,goncalvesvitoria@example.org,1992-01-03,Trimestral,Inativo,2025-12-24,96.74
+83,Miguel Siqueira,acardoso@example.com,2005-12-07,Trimestral,Inativo,2024-02-27,191.46
+84,Isadora Lopes,anthony-gabrielrocha@example.com,1960-08-11,Anual,Ativo,2024-07-27,122.31
+85,Eloah Jesus,albuquerqueisaque@example.com,1984-09-10,Anual,Ativo,2025-06-04,108.02
+86,Laura Barbosa,gpacheco@example.com,1974-11-09,Trimestral,Pendente,2024-08-06,169.61
+87,Dra. Eloá Lopes,sarahandrade@example.com,1962-06-25,Anual,Pendente,2024-12-15,120.76
+88,Maria Isis da Cruz,dmartins@example.com,2005-12-23,Anual,Pendente,2025-10-23,90.16
+89,Igor Sousa,ana-julia40@example.org,1959-05-05,Trimestral,Pendente,2024-05-17,171.58
+90,Théo Costa,pimentalevi@example.net,1998-11-17,Mensal,Inativo,2024-08-16,125.34
+91,Arthur Gabriel Garcia,aparecidasamuel@example.net,1996-02-26,Anual,Ativo,2025-05-30,180.74
+92,Isaac Rezende,lsantos@example.net,1974-06-10,Mensal,Pendente,2025-12-19,195.68
+93,Dra. Ana Sophia Borges,arthur-miguel49@example.org,2004-02-24,Mensal,Ativo,2025-11-08,131.24
+94,Lucas Mendes,kgoncalves@example.com,1990-11-13,Anual,Ativo,2025-10-12,103.68
+95,Zoe Ribeiro,da-conceicaomathias@example.com,1982-09-26,Mensal,Pendente,2025-07-23,98.72
+96,Nathan Azevedo,eloahlima@example.com,2005-12-06,Trimestral,Inativo,2024-04-06,187.54
+97,Eloah Brito,xoliveira@example.net,1975-05-06,Mensal,Inativo,2025-06-12,127.67
+98,Felipe Ribeiro,lorena14@example.org,1981-06-25,Anual,Inativo,2025-06-24,187.37
+99,Antônio Albuquerque,natalia14@example.org,1991-04-19,Trimestral,Ativo,2024-05-13,95.79
+100,Daniela Camargo,bruno08@example.net,2002-02-06,Mensal,Inativo,2025-11-18,170.69
+101,Mariane da Cruz,brendacassiano@example.org,1980-09-04,Trimestral,Ativo,2024-11-11,146.68
+102,Ayla Siqueira,matheus79@example.org,1956-03-19,Anual,Pendente,2025-06-19,110.17
+103,Sara Azevedo,aurora35@example.org,1960-05-05,Trimestral,Inativo,2025-02-28,155.03
+104,Sr. Felipe Fogaça,heloisa89@example.net,1956-06-14,Trimestral,Inativo,2025-07-02,174.44
+105,Luna da Cruz,britootto@example.net,1961-02-27,Anual,Pendente,2025-09-27,121.07
+106,Luiz Miguel Porto,fferreira@example.net,1975-08-09,Mensal,Ativo,2024-04-04,185.18
+107,Davi Lucca Câmara,yasmin21@example.org,1969-02-17,Anual,Ativo,2024-12-11,186.46
+108,Maria Fernanda Nascimento,vargasjoao-vitor@example.com,1996-09-02,Mensal,Pendente,2025-09-06,165.88
+109,Maria Liz Marques,pastorigor@example.org,2007-12-28,Trimestral,Ativo,2025-03-24,113.21
+110,Rafael Leão,lorenzo37@example.com,1967-01-20,Anual,Pendente,2024-05-05,163.75
+111,Isis Camargo,nathanmoreira@example.net,1990-03-26,Trimestral,Pendente,2025-02-04,164.14
+112,Yan Sá,maya48@example.org,1990-06-04,Trimestral,Pendente,2025-01-04,126.53
+113,Murilo da Rocha,macedomaria-fernanda@example.net,1971-05-05,Mensal,Pendente,2024-08-16,106.89
+114,Eduarda Fonseca,emanuellasousa@example.org,1995-07-22,Anual,Pendente,2026-01-20,181.38
+115,Valentina Rodrigues,marinaduarte@example.net,1983-01-10,Mensal,Ativo,2024-04-28,145.91
+116,Eduarda Barros,costamelina@example.net,1971-08-16,Trimestral,Pendente,2024-04-21,128.92
+117,Vicente Dias,maria-julia17@example.net,1965-05-24,Mensal,Inativo,2025-09-20,161.37
+118,Diego Moura,marinagoncalves@example.com,1977-04-13,Trimestral,Pendente,2025-09-22,181.0
+119,Dra. Letícia da Costa,ana-liz84@example.com,1957-11-28,Trimestral,Pendente,2025-06-07,181.52
+120,Isaque Camargo,moraesrenan@example.net,1982-04-26,Anual,Pendente,2025-08-21,185.42
+121,Sra. Eloá Gonçalves,murilopimenta@example.org,1969-07-19,Mensal,Inativo,2024-12-17,178.68
+122,Sra. Joana Jesus,calebevasconcelos@example.org,1998-06-15,Trimestral,Ativo,2025-12-22,189.57
+123,Sarah Correia,xmartins@example.org,1965-05-23,Mensal,Inativo,2024-02-24,121.63
+124,Srta. Luiza Sousa,rcostela@example.org,1996-06-09,Anual,Pendente,2025-12-23,116.68
+125,Marcelo da Cruz,da-pazyasmin@example.net,1962-05-23,Anual,Inativo,2025-12-24,99.13
+126,Enrico Vasconcelos,rda-rocha@example.org,1989-04-30,Anual,Ativo,2024-12-12,140.43
+127,Dr. João Lucas Cassiano,danielasales@example.net,1998-05-05,Mensal,Ativo,2025-08-08,144.32
+128,Antônio Barros,abreumarcela@example.net,1989-07-28,Anual,Pendente,2024-05-09,142.99
+129,Sarah Mendonça,martinshenry@example.org,1961-12-22,Anual,Inativo,2025-05-28,167.55
+130,Dra. Maria Liz Caldeira,claradas-neves@example.org,1963-08-06,Anual,Inativo,2024-04-17,160.03
+131,Augusto Araújo,joao-miguelsales@example.com,1981-11-29,Trimestral,Ativo,2025-11-01,181.1
+132,Kamilly Costa,sampaiomariane@example.org,1970-04-22,Trimestral,Ativo,2025-07-21,130.56
+133,Vicente Costela,hellenacirino@example.org,1999-01-22,Anual,Inativo,2024-02-25,151.98
+134,Sophie Novais,portobreno@example.org,1998-12-10,Mensal,Pendente,2024-07-09,100.69
+135,Ana Vitória Borges,erickazevedo@example.net,1963-06-02,Trimestral,Ativo,2024-11-23,196.01
+136,Lívia Cardoso,luiz-fernandoalbuquerque@example.org,1965-03-14,Trimestral,Inativo,2025-02-26,198.77
+137,Aurora Azevedo,maria-lizmacedo@example.org,1999-09-20,Anual,Inativo,2024-10-01,185.61
+138,Sr. Rael Lopes,antony21@example.net,1959-01-20,Trimestral,Ativo,2025-02-25,143.66
+139,Luiz Otávio Sá,guerraravy@example.org,2005-05-29,Trimestral,Inativo,2025-01-15,91.74
+140,Danilo da Rosa,da-cunhaluiz-otavio@example.net,1977-03-22,Mensal,Ativo,2024-12-30,187.92
+141,Maria Sophia Novaes,brendacostela@example.org,1990-04-22,Mensal,Ativo,2024-12-15,102.99
+142,Caroline Martins,sousayuri@example.org,1985-04-29,Mensal,Pendente,2024-09-09,133.79
+143,Rafael Moura,ocampos@example.net,1987-05-07,Anual,Pendente,2024-05-10,151.09
+144,Emanuella Freitas,souzaasafe@example.com,1968-10-12,Mensal,Pendente,2024-04-07,106.37
+145,Leonardo Moraes,oliveralbuquerque@example.net,1960-11-17,Trimestral,Ativo,2025-09-04,122.73
+146,Enzo Duarte,rael67@example.net,2003-10-06,Anual,Inativo,2025-07-19,145.58
+147,Laís Carvalho,vda-cunha@example.net,1972-10-28,Mensal,Pendente,2024-05-18,147.09
+148,Leandro Lima,maria-lauradias@example.net,1989-03-26,Mensal,Pendente,2024-04-27,145.44
+149,Luna Correia,manuella14@example.com,2000-08-17,Mensal,Ativo,2025-04-20,105.01
+150,Isaque Porto,carvalhodavi-luiz@example.com,1965-05-20,Mensal,Ativo,2025-08-15,179.79
+151,Cauê Jesus,ana-clarafernandes@example.net,1981-07-27,Mensal,Inativo,2025-01-12,125.11
+152,Melina Vasconcelos,rafael11@example.org,1971-06-01,Mensal,Ativo,2025-12-02,199.85
+153,Ana Gomes,juliada-conceicao@example.net,1964-05-12,Trimestral,Inativo,2025-10-28,155.14
+154,Sr. Dante Pastor,rochagustavo@example.org,1955-12-11,Mensal,Inativo,2026-01-06,143.9
+155,Srta. Maria Flor Santos,barbara80@example.org,2008-01-10,Trimestral,Inativo,2026-01-31,191.43
+156,Valentina Silveira,gmontenegro@example.org,1995-08-06,Anual,Inativo,2024-06-21,139.59
+157,Sr. Antônio Viana,ryandas-neves@example.org,1977-03-07,Mensal,Inativo,2025-11-02,156.1
+158,Gabriel Vieira,caldeiraaylla@example.net,1970-10-21,Anual,Pendente,2024-06-29,180.27
+159,Nicole Camargo,sabrina84@example.com,1976-10-26,Trimestral,Ativo,2024-04-11,99.93
+160,Ian Camargo,thalesda-rocha@example.com,1966-02-03,Anual,Pendente,2024-09-20,176.74
+161,Luiz Otávio da Costa,sarah77@example.com,2002-06-30,Anual,Inativo,2024-12-17,137.49
+162,Dra. Catarina Ferreira,moraesmilena@example.org,1961-09-30,Mensal,Pendente,2025-10-31,140.02
+163,Luna Melo,bruna79@example.org,1963-06-10,Trimestral,Inativo,2025-05-16,153.95
+164,Dra. Letícia Dias,oalmeida@example.net,1993-08-22,Mensal,Ativo,2026-01-27,175.79
+165,João Guilherme Gomes,isabela72@example.net,1995-01-25,Mensal,Pendente,2024-04-14,111.45
+166,Sophie das Neves,liviamendonca@example.org,1998-04-11,Mensal,Inativo,2024-03-31,106.54
+167,Rhavi Abreu,ana-carolinarezende@example.org,1982-12-29,Mensal,Inativo,2024-04-13,172.1
+168,Julia Nascimento,hsousa@example.com,2004-12-03,Mensal,Ativo,2024-06-24,151.53
+169,Luiz Otávio Pastor,heitornovaes@example.org,2000-08-06,Mensal,Pendente,2025-06-10,101.78
+170,Bianca Pimenta,pedro-henriqueda-mata@example.com,1991-10-02,Mensal,Pendente,2025-01-02,179.18
+171,Levi Lima,davi23@example.net,1984-03-19,Trimestral,Ativo,2024-12-02,94.9
+172,Vicente Pinto,nunesdom@example.org,2000-08-22,Trimestral,Inativo,2024-10-07,160.46
+173,Thiago Santos,emillyfreitas@example.net,1995-07-17,Trimestral,Ativo,2024-09-10,198.84
+174,Ana Lívia Pereira,ana-liz11@example.net,2000-10-27,Mensal,Pendente,2025-07-31,182.96
+175,Lunna Rodrigues,diogosales@example.net,2003-07-30,Anual,Inativo,2025-01-03,101.96
+176,Ana Lívia Aragão,nporto@example.net,1955-10-03,Trimestral,Inativo,2024-02-26,119.52
+177,Thomas Ferreira,icamara@example.org,1992-03-01,Mensal,Pendente,2025-12-06,138.44
+178,Rhavi Rezende,luna59@example.org,1998-05-27,Trimestral,Inativo,2024-10-22,101.46
+179,Arthur Gabriel Andrade,kcarvalho@example.net,1974-06-24,Mensal,Pendente,2025-01-05,199.39
+180,Daniela Borges,asafepereira@example.net,1998-07-25,Mensal,Pendente,2024-02-16,103.81
+181,Luan Castro,acastro@example.net,1996-07-23,Mensal,Ativo,2024-02-25,100.77
+182,Vicente Macedo,walves@example.net,2006-01-31,Trimestral,Ativo,2025-12-04,192.02
+183,Bianca Azevedo,gborges@example.com,1976-07-10,Mensal,Ativo,2024-11-14,132.16
+184,Francisco Mendonça,caio17@example.org,1989-06-20,Anual,Inativo,2025-01-10,118.11
+185,Lucas Barros,diegoda-conceicao@example.com,1969-03-27,Mensal,Inativo,2024-04-18,122.22
+186,Gael Guerra,tnunes@example.org,2004-11-24,Anual,Pendente,2024-10-16,159.0
+187,Bruno da Costa,melissa19@example.com,1966-02-09,Mensal,Ativo,2025-09-09,198.08
+188,Anna Liz Ferreira,maria-ceciliateixeira@example.org,1989-07-02,Mensal,Ativo,2025-08-18,141.57
+189,Antony Montenegro,bernardo86@example.org,1956-05-02,Anual,Ativo,2024-07-06,183.27
+190,Ana Vitória Vargas,alanapastor@example.net,2003-05-16,Mensal,Pendente,2024-02-25,167.36
+191,Yago Carvalho,manuellacavalcanti@example.com,1984-01-23,Mensal,Inativo,2024-12-09,152.33
+192,João Lucas Duarte,vitormarques@example.net,1956-11-21,Mensal,Pendente,2024-11-06,165.12
+193,Maria Luísa da Mota,lorenzo48@example.net,1972-03-17,Mensal,Ativo,2025-03-10,97.92
+194,Pietra Ribeiro,vfonseca@example.net,1985-09-10,Anual,Inativo,2024-06-08,98.2
+195,Alice Fogaça,sophieda-conceicao@example.net,1988-07-19,Trimestral,Inativo,2024-05-21,116.46
+196,Caleb Andrade,dcampos@example.org,1981-05-28,Trimestral,Ativo,2024-07-18,94.22
+197,Anthony Gabriel Moura,wsa@example.com,1966-11-24,Trimestral,Inativo,2025-04-14,126.24
+198,Anthony Gabriel Aragão,lunnanovaes@example.com,1961-08-29,Anual,Pendente,2025-10-03,185.18
+199,Leonardo Costela,da-cruzdanilo@example.com,1987-08-02,Trimestral,Ativo,2024-11-24,143.29
+200,Leandro Pimenta,luizacostela@example.com,1993-07-02,Mensal,Ativo,2024-09-02,134.52
+201,Théo Cardoso,maria-isis78@example.net,1964-01-05,Mensal,Ativo,2026-01-17,110.99
+202,Dom das Neves,csilva@example.com,1958-02-20,Trimestral,Ativo,2026-02-04,180.57
+203,Leandro Borges,benicio79@example.net,1977-06-07,Anual,Inativo,2025-09-17,94.13
+204,Dr. Otto Sousa,alicevieira@example.org,1980-10-22,Trimestral,Inativo,2025-01-01,141.65
+205,Gael Henrique da Paz,da-cruzmaria@example.org,1988-08-30,Mensal,Inativo,2024-08-23,94.66
+206,Ana Carolina Aparecida,brenogarcia@example.org,1963-01-23,Mensal,Inativo,2024-09-21,142.42
+207,Gustavo Barros,santosevelyn@example.org,2004-11-05,Trimestral,Ativo,2024-07-14,158.85
+208,Pedro Miguel Albuquerque,carolinarezende@example.net,1995-01-18,Mensal,Inativo,2025-07-08,173.18
+209,Mirella Marques,arthurmendonca@example.org,1999-05-29,Trimestral,Inativo,2024-03-19,163.2
+210,Dra. Cecilia Sampaio,rafael67@example.org,1983-06-22,Anual,Pendente,2024-08-06,192.71
+211,Luiz Henrique Montenegro,mouraolivia@example.org,1973-06-05,Mensal,Inativo,2025-07-24,98.75
+212,Luara Almeida,costagustavo-henrique@example.net,1967-07-10,Anual,Ativo,2025-09-29,154.88
+213,Dra. Maria Vitória Oliveira,ravi-luccada-mota@example.com,2000-05-19,Anual,Pendente,2025-12-07,137.72
+214,Cecília Ramos,joao-pedrocostela@example.org,1989-10-17,Anual,Inativo,2024-12-08,175.54
+215,Henrique Gonçalves,cirinojade@example.net,1992-06-28,Trimestral,Inativo,2024-08-26,125.6
+216,Liz Costa,xmendonca@example.com,1998-03-05,Mensal,Inativo,2024-09-24,108.68
+217,Ísis Gomes,pintojoao-lucas@example.org,1978-05-16,Trimestral,Pendente,2024-11-02,93.15
+218,Eloah Pires,olivialeao@example.net,1980-12-21,Trimestral,Pendente,2025-04-09,99.36
+219,Sra. Luna Lopes,zoliveira@example.net,2008-01-19,Mensal,Inativo,2025-12-18,103.48
+220,Dom Rezende,pietra52@example.org,1983-11-04,Trimestral,Pendente,2025-02-02,131.36
+221,Clarice Barros,alexandrelima@example.org,1992-03-26,Trimestral,Ativo,2025-07-21,179.64
+222,Gabriel Nogueira,josue46@example.net,1991-12-25,Mensal,Inativo,2024-05-18,103.64
+223,Letícia Garcia,rcostela@example.org,1956-10-22,Trimestral,Ativo,2024-04-04,162.48
+224,Sara Silva,vitor-hugolima@example.net,1980-12-18,Anual,Pendente,2024-11-10,196.91
+225,Calebe Moura,bella69@example.org,1983-08-21,Trimestral,Ativo,2025-05-24,136.01
+226,Sarah Mendes,nrios@example.net,1980-12-09,Trimestral,Ativo,2024-03-22,166.65
+227,Asafe da Mata,lucas-gabrielcavalcanti@example.net,1993-09-06,Anual,Inativo,2024-05-09,117.28
+228,Gustavo Cunha,marcelo90@example.net,1990-04-18,Mensal,Inativo,2025-11-02,134.63
+229,Ísis Aparecida,maria-laurada-rosa@example.net,1955-12-26,Anual,Pendente,2024-11-29,99.85
+230,Noah Pires,ncamara@example.org,2007-11-18,Trimestral,Pendente,2025-03-16,90.26
+231,Isabel Cavalcanti,vicentesilveira@example.org,1966-04-24,Trimestral,Pendente,2025-10-04,198.63
+232,Ana Luiza Gomes,das-neveserick@example.net,1990-03-07,Trimestral,Ativo,2025-06-01,131.79
+233,Luana da Costa,thiago09@example.org,1999-11-13,Trimestral,Inativo,2025-08-23,148.56
+234,Murilo Pinto,zoefernandes@example.org,1955-04-05,Mensal,Ativo,2024-05-02,93.82
+235,Emanuella Farias,hdias@example.net,2005-05-24,Anual,Ativo,2024-09-09,130.98
+236,Heloísa Caldeira,yasminnogueira@example.net,1999-06-01,Mensal,Inativo,2024-10-11,110.1
+237,Sr. Rael Teixeira,agatha03@example.com,1956-08-02,Mensal,Ativo,2025-06-08,118.89
+238,Catarina Carvalho,mendesdavi-lucas@example.org,1989-08-04,Mensal,Inativo,2025-06-05,130.46
+239,Stephany Sales,eloanascimento@example.org,1959-04-23,Trimestral,Inativo,2025-06-13,169.44
+240,Luara Silva,pedro-henriquebarbosa@example.net,1957-01-19,Anual,Inativo,2025-03-09,102.04
+241,Dr. Murilo da Mota,estermendes@example.org,1991-10-20,Anual,Pendente,2025-02-06,171.2
+242,Anthony Gabriel da Rocha,hellena08@example.org,2007-01-09,Mensal,Ativo,2025-07-06,172.39
+243,Maria Flor da Rosa,barrosayla@example.net,1985-03-08,Anual,Ativo,2024-12-27,94.56
+244,Noah Albuquerque,pintoluiz-felipe@example.org,1978-12-24,Trimestral,Pendente,2025-07-15,103.21
+245,Sra. Aylla Santos,da-pazbreno@example.org,1994-03-27,Anual,Pendente,2024-09-11,106.78
+246,Dra. Ana Luiza Araújo,bryan39@example.com,1996-03-20,Mensal,Ativo,2024-05-30,102.52
+247,Davi da Rosa,rmontenegro@example.com,1981-08-27,Trimestral,Inativo,2024-08-04,134.88
+248,Aylla Porto,stellacavalcante@example.net,1988-07-16,Anual,Pendente,2024-03-18,119.2
+249,Brayan Sá,pmendes@example.com,1969-01-23,Trimestral,Inativo,2024-04-13,156.91
+250,Raul Pinto,hdas-neves@example.org,1958-04-03,Mensal,Ativo,2025-06-20,196.22
+251,Samuel Porto,lopesmaria-laura@example.net,1982-07-15,Mensal,Pendente,2025-10-17,121.79
+252,Ester Vasconcelos,gustavo-henrique76@example.com,2005-04-07,Anual,Inativo,2024-11-20,98.85
+253,Hellena Ferreira,borgesbreno@example.com,2000-02-08,Trimestral,Inativo,2024-03-26,196.44
+254,Liz Guerra,llopes@example.com,1977-04-23,Anual,Inativo,2025-11-15,119.3
+255,Heloísa Costa,apollo97@example.org,1971-01-11,Anual,Ativo,2025-12-15,119.51
+256,Sr. Eduardo Caldeira,eduardo55@example.net,1989-02-16,Mensal,Ativo,2025-12-13,121.79
+257,Emanuelly Siqueira,vasconcelosmaite@example.org,1973-06-22,Mensal,Pendente,2024-03-17,157.86
+258,Arthur Miguel Garcia,davifarias@example.net,1988-05-21,Anual,Inativo,2025-05-31,158.87
+259,Luiz Felipe Ramos,maria-eduarda66@example.net,1975-03-15,Mensal,Inativo,2025-07-16,136.41
+260,Stephany Araújo,novaisbrenda@example.com,1990-11-15,Trimestral,Pendente,2025-08-14,162.07
+261,Melina Sá,benicioda-paz@example.net,1969-09-30,Mensal,Ativo,2025-10-30,184.3
+262,Srta. Emanuelly Pastor,qmartins@example.net,1996-09-15,Mensal,Ativo,2024-02-19,189.55
+263,Olívia Souza,ravy89@example.com,1984-03-13,Mensal,Inativo,2024-07-25,120.03
+264,Luiz Felipe Teixeira,prios@example.org,1993-07-27,Anual,Inativo,2024-05-01,178.57
+265,Clarice Machado,natalia11@example.org,1974-06-27,Anual,Ativo,2024-02-15,191.51
+266,Renan da Costa,correiacarolina@example.com,1968-09-24,Trimestral,Inativo,2025-09-16,166.3
+267,Melissa Casa Grande,clarice14@example.com,1972-10-01,Trimestral,Ativo,2025-10-23,117.65
+268,Bárbara Campos,isabella06@example.com,2000-05-24,Trimestral,Ativo,2025-03-25,197.59
+269,Dr. Leandro Pastor,rpereira@example.net,1971-11-18,Mensal,Pendente,2025-04-24,114.85
+270,Evelyn Pinto,cardosohenrique@example.org,1996-01-05,Trimestral,Pendente,2024-08-05,155.36
+271,Cauê da Cruz,moreiraester@example.org,1960-07-22,Trimestral,Pendente,2024-10-31,147.9
+272,Sra. Lorena Alves,bmendonca@example.net,1987-02-11,Trimestral,Inativo,2025-12-10,172.12
+273,Bryan Freitas,jose-pedrocosta@example.net,2007-08-13,Mensal,Pendente,2024-03-13,106.1
+274,Thomas Azevedo,calebevasconcelos@example.net,2000-10-29,Mensal,Ativo,2025-06-21,115.64
+275,Isaque da Costa,brunoda-cunha@example.org,1963-03-03,Trimestral,Inativo,2025-11-30,154.07
+276,Vitor Hugo Alves,luisa67@example.net,1976-04-02,Trimestral,Inativo,2025-09-12,130.6
+277,Sr. Cauê Martins,stellapeixoto@example.org,1993-07-23,Mensal,Inativo,2025-04-29,121.27
+278,Daniela Borges,lizda-costa@example.net,1969-02-23,Anual,Ativo,2025-08-15,129.59
+279,Sophia Araújo,wsa@example.net,1998-10-24,Mensal,Pendente,2026-01-25,112.51
+280,Maysa Freitas,jda-cruz@example.net,1955-11-24,Mensal,Pendente,2025-09-20,134.78
+281,Otto Campos,sara51@example.net,2002-05-25,Mensal,Ativo,2025-08-21,191.67
+282,Kamilly Correia,isaacrios@example.com,1971-01-15,Trimestral,Ativo,2024-09-27,164.55
+283,Sr. Diego Vieira,araujoluara@example.com,1981-05-07,Anual,Pendente,2024-08-19,122.09
+284,Ísis Monteiro,xduarte@example.org,1981-10-08,Mensal,Pendente,2026-01-02,125.95
+285,Thiago Cunha,mmendonca@example.net,1960-05-02,Mensal,Ativo,2026-01-30,112.87
+286,Caio das Neves,caua59@example.org,1995-11-03,Mensal,Pendente,2024-08-20,199.76
+287,Maysa Vargas,davi-lucas79@example.net,1956-03-20,Anual,Pendente,2024-07-15,135.95
+288,Heloísa Teixeira,wcastro@example.com,1979-08-27,Anual,Pendente,2025-10-17,110.44
+289,Lucas Gabriel da Costa,mirella91@example.net,1960-07-24,Trimestral,Ativo,2024-05-02,150.39
+290,Bernardo da Costa,tfreitas@example.com,1985-09-13,Mensal,Pendente,2026-01-21,188.76
+291,Manuella Gomes,qdias@example.net,1960-08-13,Anual,Pendente,2024-04-13,131.49
+292,Giovanna Guerra,diogoaraujo@example.org,1963-01-14,Trimestral,Inativo,2024-11-21,152.37
+293,Sra. Maria Eduarda Rios,jose-pedrocirino@example.com,1987-11-17,Anual,Pendente,2024-11-07,104.79
+294,Otávio Rezende,garciaeloa@example.net,1957-06-29,Trimestral,Inativo,2025-03-03,150.03
+295,Miguel Barbosa,nogueiramaria-julia@example.com,2005-03-06,Anual,Pendente,2025-04-14,91.12
+296,Yuri Pires,raquel33@example.net,1995-08-19,Mensal,Inativo,2025-09-13,188.02
+297,Dra. Nicole Moura,cunhaisaac@example.org,2001-03-13,Anual,Pendente,2025-09-19,194.49
+298,Giovanna Vargas,fda-cruz@example.com,1957-03-09,Anual,Pendente,2025-12-02,135.66
+299,Dr. Rodrigo Lima,luiz-fernandocosta@example.org,1971-05-23,Mensal,Pendente,2024-04-03,97.33
+300,Luiz Otávio Vasconcelos,mdias@example.com,1963-12-08,Anual,Inativo,2025-12-07,187.98
+301,Igor Teixeira,sabrina80@example.org,1964-03-05,Mensal,Pendente,2025-10-08,140.84
+302,Henrique Caldeira,rda-conceicao@example.net,1969-03-18,Mensal,Inativo,2025-12-10,169.38
+303,João Leão,handrade@example.net,1980-11-16,Mensal,Pendente,2024-03-22,144.5
+304,Cauê Cardoso,livia10@example.org,1966-02-07,Anual,Pendente,2024-02-22,97.29
+305,Kamilly Aragão,ecosta@example.org,1962-10-21,Anual,Ativo,2025-03-12,159.02
+306,Brayan Farias,salesjuliana@example.com,1975-04-30,Trimestral,Inativo,2025-08-16,96.69
+307,Luiz Miguel Sampaio,moraescecilia@example.net,1969-11-18,Trimestral,Ativo,2024-05-14,151.18
+308,Allana Vargas,sophie71@example.org,1996-07-07,Trimestral,Pendente,2024-06-15,100.15
+309,Antony Nascimento,raelmacedo@example.net,1991-01-14,Anual,Inativo,2025-03-22,165.63
+310,Henry Campos,almeidaluna@example.com,1957-02-26,Mensal,Pendente,2025-01-26,110.92
+311,Guilherme Borges,bellaviana@example.com,1958-08-20,Anual,Inativo,2025-11-28,187.0
+312,Srta. Olivia Novais,camilamoreira@example.com,1963-12-13,Trimestral,Pendente,2025-09-10,186.91
+313,Júlia Marques,amanda99@example.com,1985-06-28,Anual,Ativo,2024-10-21,185.38
+314,Mateus Brito,tcaldeira@example.net,2004-03-07,Trimestral,Ativo,2026-01-12,96.96
+315,Arthur Gabriel Lima,rlima@example.org,1959-01-24,Mensal,Inativo,2025-08-11,96.87
+316,Stephany Cirino,eduarda27@example.org,1981-03-19,Trimestral,Pendente,2024-02-21,177.48
+317,Mariana Mendonça,pedro-henrique84@example.net,1963-09-26,Trimestral,Pendente,2025-04-21,118.85
+318,Maria Eduarda Guerra,noah30@example.org,1999-04-24,Anual,Inativo,2024-12-23,140.38
+319,Enzo Gabriel da Rocha,pedroramos@example.net,2006-04-17,Mensal,Inativo,2025-06-01,98.96
+320,José Pedro Pacheco,joao-lucascorreia@example.net,2007-10-11,Trimestral,Ativo,2024-10-30,162.59
+321,Hellena Porto,melojoao-guilherme@example.net,1976-01-01,Anual,Pendente,2024-02-12,99.03
+322,Ana Luiza Borges,viniciusnovais@example.org,1990-01-28,Trimestral,Pendente,2024-03-25,124.03
+323,Thiago Silveira,costelaana-carolina@example.net,1963-04-24,Trimestral,Inativo,2024-11-15,93.69
+324,Murilo Costela,martinsjoao-felipe@example.org,1956-05-16,Trimestral,Inativo,2024-10-27,147.23
+325,Arthur Gabriel Barbosa,benicio04@example.net,2004-02-03,Mensal,Pendente,2024-06-05,168.85
+326,Isabel Nascimento,eda-costa@example.org,1999-02-18,Anual,Pendente,2024-10-14,141.2
+327,Fernanda Campos,rezendegael@example.org,2004-12-30,Anual,Pendente,2025-01-29,160.55
+328,Maria Luísa Melo,martinsmaya@example.com,1966-10-21,Anual,Ativo,2024-10-21,185.43
+329,João Pedro Lima,luara11@example.net,2003-06-02,Anual,Ativo,2024-07-17,174.81
+330,Manuella Alves,ybarbosa@example.com,1998-09-25,Trimestral,Inativo,2025-11-01,122.37
+331,Isabella Ribeiro,carolinearagao@example.net,2004-09-19,Mensal,Inativo,2025-03-17,112.48
+332,Joaquim Fernandes,costelamariane@example.com,1987-06-27,Anual,Pendente,2024-02-10,95.73
+333,Helena Abreu,miguellopes@example.org,2005-02-06,Trimestral,Ativo,2024-03-07,131.41
+334,Rebeca Porto,sfernandes@example.com,1960-11-13,Mensal,Ativo,2024-06-28,169.9
+335,Srta. Ana Julia Carvalho,alexia97@example.org,1989-09-24,Trimestral,Pendente,2025-09-23,173.33
+336,Valentim Freitas,nataliaferreira@example.org,1977-08-29,Mensal,Inativo,2024-04-08,107.86
+337,Calebe da Conceição,theosa@example.com,1965-10-18,Trimestral,Ativo,2024-07-12,164.29
+338,Brenda Pinto,maria-julia52@example.net,1957-05-20,Anual,Inativo,2024-04-19,116.6
+339,Dra. Sophie da Cunha,emillyoliveira@example.com,1957-01-21,Mensal,Pendente,2024-12-13,113.15
+340,Luan Albuquerque,ana-juliada-luz@example.org,1991-04-05,Trimestral,Pendente,2024-10-24,197.47
+341,Maria Liz Brito,davi-miguelbarbosa@example.org,1974-04-14,Mensal,Ativo,2025-10-08,128.51
+342,Beatriz Aparecida,cardosorodrigo@example.org,1973-10-19,Anual,Inativo,2025-02-06,154.92
+343,Mariana Brito,alanagarcia@example.net,2007-09-09,Mensal,Pendente,2025-09-11,96.34
+344,Mirella Silveira,cavalcantiana-vitoria@example.com,1967-01-11,Trimestral,Ativo,2025-12-26,188.57
+345,Sr. Diego Cavalcanti,valentina07@example.com,2001-08-17,Mensal,Ativo,2025-11-24,117.93
+346,Lorena das Neves,barrosisabelly@example.com,1998-12-28,Anual,Pendente,2025-03-22,195.95
+347,Aurora Pires,daviduarte@example.net,1960-12-28,Anual,Ativo,2025-04-02,195.08
+348,Cecilia Nunes,isaacmelo@example.net,1992-12-29,Anual,Inativo,2025-07-02,196.84
+349,Carlos Eduardo Correia,isilveira@example.org,1960-11-08,Trimestral,Pendente,2024-06-12,192.24
+350,Sra. Maria Júlia Silveira,fcunha@example.com,1994-12-30,Mensal,Pendente,2025-01-01,131.72
+351,Dra. Camila Abreu,ecasa-grande@example.org,1965-11-21,Mensal,Inativo,2025-11-11,119.61
+352,Maria Fernanda Fonseca,ryanramos@example.com,1973-07-29,Mensal,Pendente,2025-07-22,96.21
+353,João Miguel Carvalho,maria-laura52@example.org,1990-08-14,Trimestral,Pendente,2025-08-24,184.62
+354,Ana Carolina Silveira,da-costaarthur-miguel@example.com,1981-10-21,Trimestral,Pendente,2024-11-17,180.76
+355,Ryan da Conceição,eloa59@example.org,1966-07-10,Anual,Inativo,2025-03-26,184.5
+356,Mirella Borges,mariah22@example.org,1985-02-24,Trimestral,Pendente,2025-03-03,104.81
+357,Maria Helena Mendonça,xmoraes@example.net,1968-09-19,Anual,Pendente,2024-10-12,199.4
+358,Thales da Cruz,montenegromaria-isis@example.com,1964-03-24,Trimestral,Ativo,2024-04-24,195.75
+359,Gabriel Machado,augustoaraujo@example.net,1976-01-23,Mensal,Pendente,2024-06-28,175.61
+360,Diogo Cunha,ayllagomes@example.net,2000-07-19,Trimestral,Ativo,2024-07-09,173.75
+361,João Lucas Macedo,jcavalcanti@example.net,1965-06-16,Anual,Pendente,2025-05-25,152.26
+362,Asafe Borges,paparecida@example.com,1965-01-24,Mensal,Ativo,2024-02-16,117.63
+363,Dante da Conceição,nogueirasara@example.com,2005-04-02,Trimestral,Inativo,2025-06-10,153.77
+364,Liz Rodrigues,joao-guilherme07@example.com,1969-07-30,Mensal,Ativo,2025-04-04,185.39
+365,Ana Carolina Borges,thalesoliveira@example.net,1979-06-10,Anual,Ativo,2024-03-28,177.65
+366,Dr. Joaquim da Mata,rodrigolima@example.com,1978-05-29,Anual,Pendente,2025-08-27,118.6
+367,Allana Caldeira,monteiroraul@example.org,1973-06-09,Mensal,Ativo,2025-10-08,176.4
+368,Olivia Silva,lucas-gabrielsiqueira@example.com,1955-03-20,Trimestral,Pendente,2024-05-29,173.17
+369,Esther Campos,ecaldeira@example.org,1976-05-28,Mensal,Pendente,2025-06-20,180.53
+370,Liam Guerra,enunes@example.org,1973-04-30,Mensal,Ativo,2024-11-09,153.54
+371,Ana Beatriz Camargo,luiz-miguelsantos@example.org,1996-01-10,Mensal,Pendente,2025-06-03,149.39
+372,Guilherme Câmara,dom95@example.net,1967-02-12,Mensal,Pendente,2024-10-06,188.04
+373,Antony Martins,agatha53@example.net,2001-04-23,Anual,Inativo,2024-09-06,109.34
+374,Kaique Moraes,da-cruzleonardo@example.com,1990-04-12,Trimestral,Pendente,2024-04-21,129.76
+375,Brenda Aparecida,jesusmanuella@example.org,1958-02-05,Trimestral,Inativo,2024-11-27,146.33
+376,Dr. Ian Novaes,fernandesjulia@example.net,1956-02-27,Mensal,Ativo,2024-12-20,162.02
+377,Sra. Marcela Porto,novaestheodoro@example.net,2007-06-14,Mensal,Pendente,2026-01-03,143.1
+378,Brayan Rocha,qgarcia@example.org,1955-12-07,Mensal,Inativo,2024-08-15,151.67
+379,Benjamim Nogueira,usousa@example.net,1963-08-05,Trimestral,Pendente,2024-07-22,198.64
+380,Isis Aragão,ribeirogael-henrique@example.com,1988-07-01,Trimestral,Ativo,2024-10-21,177.12
+381,Zoe Cavalcanti,ceciliadias@example.net,1997-06-28,Anual,Ativo,2025-01-23,189.75
+382,Brayan da Cunha,catarinamendonca@example.org,1961-12-27,Trimestral,Inativo,2025-12-08,154.37
+383,João Lucas Santos,marina32@example.net,1987-05-16,Anual,Pendente,2024-11-08,184.29
+384,Heloisa Carvalho,nmontenegro@example.org,1958-04-12,Mensal,Pendente,2026-01-11,195.96
+385,Luan Pereira,taparecida@example.org,2007-03-30,Anual,Ativo,2024-07-22,107.54
+386,João Pedro Almeida,thomascaldeira@example.com,1960-01-17,Trimestral,Ativo,2024-05-07,108.79
+387,Lunna Sampaio,maria-lizsilveira@example.net,1993-11-09,Trimestral,Inativo,2024-11-06,161.73
+388,Dr. Matheus Montenegro,alicepinto@example.com,1978-03-14,Anual,Ativo,2026-01-19,93.96
+389,Luiz Gustavo da Cunha,fmartins@example.org,1982-10-15,Trimestral,Inativo,2025-05-20,152.75
+390,Dr. Gael Henrique Vieira,wcaldeira@example.com,1983-09-26,Mensal,Inativo,2024-08-09,180.61
+391,Antony Mendonça,oliveiraliz@example.net,1999-06-09,Mensal,Ativo,2025-12-24,104.89
+392,Sra. Olivia Caldeira,lucas77@example.org,2000-12-05,Trimestral,Inativo,2024-03-10,108.19
+393,Isabella Barbosa,camposluiz-otavio@example.net,2001-05-09,Trimestral,Inativo,2025-02-12,185.85
+394,Lucas das Neves,emanuella67@example.com,1989-02-22,Trimestral,Inativo,2024-05-15,92.56
+395,Davi Luiz Andrade,fmacedo@example.org,1981-07-28,Trimestral,Ativo,2024-08-31,98.91
+396,Dr. João Pedro Pires,cunharaul@example.org,1993-03-14,Anual,Inativo,2024-02-14,152.29
+397,Igor Aragão,uoliveira@example.net,1996-08-14,Anual,Pendente,2024-08-28,172.37
+398,Bruna Nunes,joanaborges@example.org,2003-09-06,Mensal,Ativo,2025-04-18,159.64
+399,Bryan Nogueira,isabellima@example.org,1956-03-25,Mensal,Ativo,2025-09-23,117.03
+400,Mathias Aparecida,lucca60@example.com,1996-10-17,Trimestral,Ativo,2024-08-28,153.78
+401,Ian Brito,ymachado@example.org,2002-09-18,Trimestral,Pendente,2024-09-22,124.02
+402,Hadassa Novais,cardosoluan@example.org,1967-12-24,Anual,Inativo,2025-07-03,127.43
+403,Renan Freitas,yasmin85@example.org,1999-09-06,Mensal,Pendente,2024-05-15,197.5
+404,Beatriz Araújo,davi-miguel30@example.net,1960-08-16,Trimestral,Inativo,2026-01-06,113.76
+405,Thales Leão,rmartins@example.com,2008-01-08,Trimestral,Inativo,2024-11-08,106.03
+406,Sr. Vitor Hugo Costa,maria-flor57@example.com,1990-11-10,Anual,Inativo,2025-11-24,115.91
+407,Maria Fernanda Borges,erick58@example.org,2004-10-19,Mensal,Inativo,2024-06-09,130.26
+408,Cauê Ribeiro,luccapinto@example.com,1994-09-17,Anual,Inativo,2025-11-06,177.75
+409,Ana Luiza Fonseca,azevedojoao-gabriel@example.net,1993-03-02,Trimestral,Inativo,2025-07-30,121.77
+410,Heloisa Camargo,cassianoana-livia@example.org,1960-09-20,Mensal,Ativo,2025-08-22,129.24
+411,Lucca Oliveira,emendonca@example.net,1970-09-02,Anual,Ativo,2024-02-13,105.5
+412,Maria Laura Pacheco,luiza82@example.net,1957-10-08,Anual,Inativo,2025-10-14,155.65
+413,Eduardo Costa,guerraalana@example.com,1971-04-06,Trimestral,Ativo,2025-07-18,174.98
+414,João Ribeiro,ayladuarte@example.org,1970-04-27,Mensal,Ativo,2025-03-16,152.35
+415,Samuel Mendonça,joao-lucas00@example.org,1956-01-20,Anual,Ativo,2024-11-07,171.31
+416,Luiz Gustavo Sousa,pietraandrade@example.net,1996-07-13,Mensal,Inativo,2025-07-16,132.39
+417,Mariana Ferreira,alicebarbosa@example.com,1969-08-10,Trimestral,Ativo,2025-08-30,134.7
+418,Augusto Mendonça,luiz-fernando72@example.net,1984-12-11,Trimestral,Ativo,2025-10-30,183.81
+419,Ana da Luz,livia23@example.org,1970-06-20,Mensal,Ativo,2024-05-14,194.46
+420,Henry Gabriel Silva,almeidamaite@example.org,1999-12-30,Anual,Ativo,2024-04-16,106.98
+421,Felipe Leão,camila47@example.com,1982-07-10,Mensal,Ativo,2025-07-12,194.52
+422,Sr. Vinícius Nunes,barrostheodoro@example.net,2002-04-05,Anual,Pendente,2024-07-17,145.73
+423,Luiza Marques,qfonseca@example.net,2001-05-10,Trimestral,Inativo,2025-08-03,154.78
+424,Ana Laura Melo,gabriel38@example.com,1969-12-31,Trimestral,Ativo,2024-11-04,137.91
+425,Alícia Rocha,ayla53@example.net,2000-05-06,Trimestral,Ativo,2025-02-08,103.85
+426,Alice Rodrigues,evelyn18@example.com,1967-04-15,Mensal,Pendente,2025-09-14,106.71
+427,Eloá Melo,rcarvalho@example.org,1957-08-14,Mensal,Pendente,2025-03-05,143.03
+428,Maria Vitória Duarte,levi64@example.org,2000-03-12,Mensal,Ativo,2025-10-21,98.62
+429,Dr. João Gabriel Sousa,camargodaniel@example.com,1964-07-17,Trimestral,Inativo,2025-10-25,143.73
+430,Caio Cavalcante,costaoliver@example.net,2007-02-25,Trimestral,Pendente,2026-01-22,160.47
+431,Kaique Aragão,ealmeida@example.com,2000-11-10,Trimestral,Pendente,2025-05-05,139.95
+432,Raul Dias,arthur-gabriel68@example.com,1987-10-21,Anual,Pendente,2024-04-21,112.37
+433,Mariane Oliveira,maria-claracavalcante@example.org,2004-08-06,Trimestral,Ativo,2025-01-22,143.9
+434,Vinicius Ramos,davi-miguelmoraes@example.org,2005-02-28,Trimestral,Inativo,2024-10-18,136.09
+435,Maria Isis Silveira,jadepeixoto@example.net,1982-10-03,Trimestral,Ativo,2025-11-06,162.98
+436,Luísa Araújo,hvieira@example.net,1982-06-28,Mensal,Ativo,2024-11-04,120.37
+437,Joaquim Abreu,almeidaana-beatriz@example.net,1965-08-16,Mensal,Pendente,2026-01-11,115.59
+438,Ana Clara Barbosa,vitor-gabriel82@example.net,2006-06-09,Mensal,Ativo,2025-07-05,176.35
+439,Paulo da Cunha,nathanpastor@example.net,1963-09-19,Anual,Pendente,2025-06-09,134.78
+440,Anthony Gabriel Lopes,anna-lizramos@example.org,1962-11-14,Mensal,Inativo,2024-12-31,173.51
+441,Benício Melo,tpires@example.org,2006-04-21,Trimestral,Inativo,2025-04-17,108.3
+442,Liam Vasconcelos,albuquerquecalebe@example.net,1974-02-05,Anual,Pendente,2025-02-12,139.86
+443,Luiza Martins,mcampos@example.org,1994-07-22,Trimestral,Inativo,2024-04-30,122.53
+444,Mariane das Neves,fnogueira@example.com,2002-09-23,Anual,Pendente,2024-11-03,176.17
+445,Luan Pereira,larapereira@example.net,1962-02-20,Anual,Pendente,2024-10-04,131.42
+446,Luiza Costa,ottovasconcelos@example.com,1989-08-07,Trimestral,Ativo,2024-10-27,158.96
+447,Maria Vitória Rodrigues,meloana-carolina@example.org,1968-03-20,Mensal,Inativo,2025-01-13,99.58
+448,Maitê Camargo,imelo@example.org,1955-07-09,Mensal,Inativo,2024-05-03,187.42
+449,Luiza Mendonça,igor97@example.net,1966-11-04,Mensal,Pendente,2024-12-03,117.16
+450,Theodoro Pimenta,piresisis@example.net,1975-09-10,Anual,Inativo,2025-09-09,140.36
+451,Joana Silveira,ucastro@example.com,2004-01-10,Anual,Ativo,2024-11-16,135.75
+452,Julia Fonseca,cda-rocha@example.org,1984-03-27,Mensal,Ativo,2024-04-29,167.58
+453,Thiago Camargo,jda-luz@example.net,1988-05-26,Trimestral,Pendente,2025-02-08,175.06
+454,Srta. Cecilia Andrade,goncalvestheo@example.org,2006-08-02,Trimestral,Ativo,2025-08-06,127.12
+455,Ágatha Vasconcelos,almeidacaio@example.org,1975-12-20,Mensal,Pendente,2024-12-12,110.29
+456,Mariane Peixoto,ynogueira@example.com,1965-08-25,Anual,Ativo,2026-01-06,166.88
+457,Theo Silva,sofiacastro@example.com,2006-05-18,Trimestral,Ativo,2024-09-12,134.6
+458,João Pedro Duarte,ialbuquerque@example.org,1979-09-12,Mensal,Pendente,2024-09-03,144.92
+459,Lucas Silva,mribeiro@example.net,1957-05-30,Anual,Pendente,2025-01-31,144.7
+460,Dr. Ravy Oliveira,rafaela28@example.net,1984-10-12,Mensal,Pendente,2025-06-07,118.31
+461,Francisco Fernandes,limavinicius@example.org,1995-03-18,Anual,Ativo,2025-03-28,162.23
+462,Dra. Maria Luiza Ferreira,wsales@example.org,2005-06-30,Mensal,Pendente,2025-08-06,180.23
+463,Ana Carolina Pastor,carlos-eduardo80@example.org,1964-04-02,Mensal,Pendente,2024-02-17,115.88
+464,Aylla Pastor,rodriguestheo@example.org,1999-04-21,Anual,Pendente,2025-08-19,158.52
+465,Mathias Gomes,peixotoemanuel@example.org,1977-07-03,Anual,Ativo,2024-10-18,164.35
+466,Helena Correia,brocha@example.net,1999-12-26,Mensal,Inativo,2025-11-21,140.1
+467,Sra. Carolina da Rosa,lucas-gabriel97@example.net,1977-02-24,Anual,Pendente,2024-11-27,191.16
+468,Gael Henrique Vieira,monteiroluiza@example.net,1964-08-11,Trimestral,Ativo,2025-01-27,164.68
+469,Isabella Fernandes,liam10@example.com,1994-07-14,Anual,Inativo,2025-06-20,197.24
+470,Srta. Eloah Pimenta,anthony-gabriel25@example.com,1989-08-13,Mensal,Inativo,2026-01-07,185.45
+471,Sr. Matteo Nogueira,daniela87@example.net,2004-09-07,Trimestral,Pendente,2025-11-03,137.4
+472,Ana Lívia Santos,alexia63@example.net,1992-08-19,Mensal,Ativo,2024-11-14,185.1
+473,Davi Lucca Vasconcelos,luiz-henriquegoncalves@example.com,1957-06-24,Trimestral,Ativo,2025-07-25,121.05
+474,Marcelo Casa Grande,barrosbianca@example.org,1963-07-19,Trimestral,Inativo,2025-12-19,148.68
+475,Paulo Macedo,leonardo46@example.com,1995-09-08,Trimestral,Inativo,2025-10-25,111.25
+476,Srta. Maria Eduarda Freitas,vieiracalebe@example.net,1966-06-27,Trimestral,Pendente,2025-06-14,121.87
+477,Maria Isis Leão,mirella83@example.com,2000-09-20,Trimestral,Pendente,2025-05-22,129.41
+478,Juan da Rocha,santosisabela@example.net,1955-05-03,Mensal,Inativo,2025-11-01,187.85
+479,Alana Pinto,rhavinovaes@example.org,1977-05-08,Mensal,Ativo,2025-03-13,173.92
+480,Maria Laura Rodrigues,wcamara@example.org,1979-12-04,Trimestral,Pendente,2025-10-27,161.63
+481,Rafael Rocha,costaana-julia@example.com,1998-12-12,Mensal,Inativo,2025-04-22,177.49
+482,Stella Moura,manuelladias@example.org,1992-11-10,Mensal,Pendente,2025-11-05,185.8
+483,Giovanna Barros,gabriela22@example.org,2001-02-22,Trimestral,Ativo,2024-07-13,163.04
+484,Sofia Duarte,pedro-henriquedas-neves@example.org,1962-08-13,Anual,Pendente,2025-06-22,109.95
+485,Marina Cunha,caio86@example.com,1994-08-11,Mensal,Inativo,2024-09-07,109.11
+486,Leandro Pinto,msa@example.org,1961-09-16,Trimestral,Pendente,2025-08-26,189.83
+487,Dr. Renan Guerra,ana-clara52@example.org,1990-11-04,Anual,Ativo,2024-04-12,133.31
+488,Sra. Eloah Montenegro,fernandesrodrigo@example.org,1977-06-23,Anual,Inativo,2025-01-02,95.9
+489,Beatriz Lima,luisapinto@example.net,1962-05-11,Anual,Inativo,2026-01-03,162.57
+490,Allana Rodrigues,beatriz95@example.net,1978-02-13,Trimestral,Pendente,2024-05-09,109.29
+491,Maria Alice Rios,anthony-gabriel73@example.com,1958-08-02,Trimestral,Pendente,2025-11-01,117.24
+492,Júlia da Costa,barbosalavinia@example.net,1978-02-17,Mensal,Inativo,2026-01-09,165.25
+493,Heloísa Siqueira,salesluigi@example.com,1963-11-12,Anual,Ativo,2025-08-19,162.08
+494,Yuri Gomes,fariasmathias@example.org,1984-01-30,Trimestral,Ativo,2025-06-05,92.43
+495,Sr. Mateus Campos,luiza17@example.net,2007-11-10,Trimestral,Pendente,2026-01-05,92.6
+496,Nina Jesus,eloah82@example.org,2002-03-11,Mensal,Pendente,2025-09-12,134.02
+497,Sofia Peixoto,trios@example.org,1960-09-22,Trimestral,Inativo,2025-12-14,132.02
+498,Juliana Rios,da-motaeloah@example.com,2001-03-22,Trimestral,Pendente,2024-08-01,189.1
+499,Manuela Dias,luizaalmeida@example.net,2005-12-24,Anual,Pendente,2024-04-14,137.71
+500,João Vitor Porto,joao-vitorjesus@example.net,1955-05-02,Trimestral,Ativo,2025-07-25,90.1

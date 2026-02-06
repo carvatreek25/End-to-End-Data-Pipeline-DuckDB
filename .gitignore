@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Bases de Dados (Não queremos subir os ficheiros binários)
+*.db
+*.sqlite
+*.duckdb
+
+# Configurações e Senhas
+.env
+
+# Pastas de IDE
+.vscode/
+.idea/
