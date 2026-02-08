@@ -1,4 +1,4 @@
-﻿# Projeto Ingestao de Dados com DuckDB
+﻿# End-to-End Data Pipeline: Implementando Arquitetura Medalhão com DuckDB
 
 Este projeto consiste na criação de um pipeline de dados completo utilizando a biblioteca **Faker** para gerar dados fictícios de uma academia e o **DuckDB** como motor de processamento e armazenamento, seguindo a **Arquitetura Medalhão**.
 
@@ -57,4 +57,5 @@ Nesta etapa final, foi realizado consultas SQL no DuckDB para gerar insights, co
 
 ---
 Desenvolvido por **Amanda**.
+
 
