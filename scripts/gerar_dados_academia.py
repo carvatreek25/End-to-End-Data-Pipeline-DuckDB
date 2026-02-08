@@ -1,3 +1,4 @@
+pip install faker pandas
 import pandas as pd
 from faker import Faker
 import random
@@ -27,5 +28,7 @@ def gerar_dados(n_registros=100):
 df_academia = gerar_dados(500)
 
 # Salvando para usar na sua ingestão
-df_academia.to_csv('clientes_academia.csv', index=False, encoding='utf-8')
+df_academia.to_csv('data/clientes_academia.csv', index=False, encoding='utf-8')
 print("Arquivo 'clientes_academia.csv' gerado com sucesso!")
+
+
